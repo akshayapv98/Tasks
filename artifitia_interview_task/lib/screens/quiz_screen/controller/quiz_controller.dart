@@ -38,7 +38,6 @@ getQuiz() async {
         print('Unexpected data format');
       }
     }
-
     update();
   }
 }
